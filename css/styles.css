@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: beige;
+    font-family: Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+ul,
+ol {
+    width: 850px
+}
+
+p {
+    width: 850px;
+    line-height: 1.2;
+}
+
+a:link {
+    color: cyan;
+}
+
+a:visited {
+    color: magenta;
+}
+
+h1 {
+    background-color: #999999;
+    width: fit-content;
+    padding: 10px;
+    border-color: white;
+    border-style: double;
+}
+
+img {
+    border-style: solid;
+    border-color: #999999;
+    border-width: 5px;
+}
